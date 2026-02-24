@@ -250,7 +250,7 @@ xml = build_listing_xml(
 
 ---
 
-## 🙋 Author
+## 🙋‍♂️ Author
 
 **Rod Stewart** — [GitHub](https://github.com/Rodstewart498)
 
