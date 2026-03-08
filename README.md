@@ -246,12 +246,12 @@ xml = build_listing_xml(
 
 ## 📝 License
 
-© 2025 Rod Stewart. All Rights Reserved. This code is provided for portfolio demonstration purposes only. No permission is granted to use, copy, modify, or distribute this software.
+© 2025 Rod M. Stewart. All Rights Reserved. This code is provided for portfolio demonstration purposes only. No permission is granted to use, copy, modify, or distribute this software.
 
 ---
 
 ## 🙋‍♂️ Author
 
-**Rod Stewart** — [GitHub](https://github.com/Rodstewart498)
+**Rod M. Stewart** — [GitHub](https://github.com/Rodstewart498)
 
 Built to solve real problems in high-volume ecommerce operations. If you're managing hundreds or thousands of eBay listings and drowning in manual work, this architecture might help.
